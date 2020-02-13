@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4720eef1-8ea2-4582-aad2-130fcd7f7369" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppiumTuts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AppiumTuts.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tutorials/base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tutorials/base.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
