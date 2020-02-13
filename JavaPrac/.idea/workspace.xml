@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="137b0367-59e4-440a-a964-0d333c2fb6bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XiPWUk5rJxomiqeTkwn4sOiLkv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Parent">
+    <configuration name="Basics2.java" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Basics1" />
+      <module name="JavaPrac" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods" />
+      <module name="JavaPrac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Parent" />
+      <module name="JavaPrac" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Parent" />
+        <item itemvalue="Application.Methods" />
+        <item itemvalue="Application.Basics2.java" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="137b0367-59e4-440a-a964-0d333c2fb6bc" name="Default Changelist" comment="" />
+      <created>1581525973883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581525973883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581531241636">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="184" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1581531241636" />
+    <state x="457" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581528208601">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="457" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1581528208601" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1581548842560">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1581548842560" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1581548842559">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1581548842559" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1581548842558">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1581548842558" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1581548842560">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1581548842560" />
+    <state x="208" y="23" key="SettingsEditor" timestamp="1581548833991">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="208" y="23" key="SettingsEditor/-241.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1581548833991" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaPrac$Basics2_java.ic" NAME="Basics2.java Coverage Results" MODIFIED="1581528238926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
